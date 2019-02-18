@@ -1,0 +1,3 @@
+# untracked files
+# ignore the source code NovaMind files (sounds crazy, but ....)
+*.nm5
